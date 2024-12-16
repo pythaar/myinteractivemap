@@ -1,0 +1,8 @@
+.env/
+appLogs.log
+*.json
+nohup.out
+*.html
+*.log
+*.txt
+!requirements.txt
